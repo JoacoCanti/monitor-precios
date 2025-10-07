@@ -1,5 +1,5 @@
 from monitor_precios import MonitorPrecios
-from automatizador_emails import AutomatizadorEmails
+from automatizador_email import AutomatizadorEmails
 from manejador_producto import ManejadorProductos
 from datetime import datetime
 import time

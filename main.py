@@ -1,7 +1,7 @@
 from Iusuario import IUsuario
 from Iproducto import IProducto
 from factory import Factory
-from automatizador_emails import AutomatizadorEmails
+from automatizador_email import AutomatizadorEmails
 from monitor_global_module import MonitorGlobalCombinado  
 import threading
 from queue import Queue
