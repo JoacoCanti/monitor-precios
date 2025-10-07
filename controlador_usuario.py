@@ -1,4 +1,4 @@
-from manejador_usuarios import ManejadorUsuarios
+from manejador_usuario import ManejadorUsuarios
 from usuario import Usuario
 
 
