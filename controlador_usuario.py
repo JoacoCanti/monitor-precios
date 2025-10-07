@@ -1,5 +1,5 @@
 from manejador_usuario import ManejadorUsuarios
-from usuario import Usuario
+from usuarios import Usuario
 
 
 class ControladorUsuarios:

@@ -1,4 +1,4 @@
-from usuario import Usuario
+from usuarios import Usuario
 from database import Database
 
 class ManejadorUsuarios:

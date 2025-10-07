@@ -1,6 +1,6 @@
 from producto import Producto
 from database import Database
-from usuario import Usuario
+from usuarios import Usuario
 class ManejadorProductos:
     _instance = None
 
