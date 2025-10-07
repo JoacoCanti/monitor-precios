@@ -1,0 +1,48 @@
+
+# --- Entorno virtual ---
+venv/
+.env/
+
+# --- Archivos de Python ---
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.pdb
+*.pkl
+*.egg-info/
+*.egg
+
+# --- Archivos de configuración locales ---
+*.env
+*.ini
+*.cfg
+*.local
+*.sqlite3
+
+# --- Logs y reportes ---
+*.log
+logs/
+debug.log
+
+# --- Archivos temporales del sistema ---
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+
+# --- Archivos de editor ---
+.vscode/
+.idea/
+
+# --- Entornos Jupyter ---
+.ipynb_checkpoints/
+
+# --- Build / Distribución ---
+build/
+dist/
+*.spec
+
+# --- Otros ---
+# Backup files
+*~
